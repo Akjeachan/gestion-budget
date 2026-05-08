@@ -8,13 +8,14 @@ function LoginForm() {
     const [message, setMessage] = useState("");
     const navigate = useNavigate();
 
-    const handleLogin = async () => {
+    const handleLogin = async (e) => {
+        e.preventDefault();
         try {
+            e.preventDefault();
             const data = await loginUser(identifiant, password);
             setMessage("Connexion réussie : " + data);
-            if (data.role === "Direction") navigate("/admin");
+            if (data.role === "Admin") navigate("/admin");
             else if (data.role === "Utilisateur") navigate("/utilisateur");
-            else if (data.role === "Controleur de Gestion") navigate("/controleur");
             else setMessage("Rôle non reconnu : " + data.role);
         } catch (error) {
             setMessage(error.message);
@@ -23,17 +24,17 @@ function LoginForm() {
 
     return (
         <div className="auth-container">
-          <h1 style={{ display: "flex", alignItems: "center" }}>
-  <img
-    src="Softwell.png"
-    alt="Logo"
-    style={{ width: "100px", marginRight: "20px" }}
-  />
-  <span>Soft Budget</span>
-</h1>
+            <h1>
+                <img
+                    src="Softwell.png"
+                    alt="Logo"
+                />
+                <span>Soft Budget</span>
+            </h1>
 
-<p>Connectez-vous pour accéder à votre espace</p>
+            <p>Connectez-vous pour accéder à votre espace</p>
 
+        <form onSubmit={handleLogin}>
             <div className="form-group">
                 <label>Identifiant</label>
                 <input
@@ -54,7 +55,8 @@ function LoginForm() {
                 />
             </div>
 
-            <button onClick={handleLogin}>Se connecter</button>
+            <button type="submit">Se connecter</button>
+            </form>
 
             {message && <p className="message message-info">{message}</p>}
         </div>

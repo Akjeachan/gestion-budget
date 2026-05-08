@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
-import { ListeValidationPlannfication, ListPlannification, validationPlannification } from "../services/api";
+import { ListeValidationPlannfication, ListPlannification, validationPlannification, EnvoiMail, getUser } from "../services/api";
+import ConfirmationModal from "../components/ConfirmationModal";
 
 function Validation() {
   const [plannifications, setPlannifications] = useState([]);
@@ -8,14 +9,21 @@ function Validation() {
   const [showDetailModal, setShowDetailModal] = useState(false);
   const [selected, setSelected] = useState(null);
   const [filterStatus, setFilterStatus] = useState("tous");
+  const [utilisateur, setUtilisateur] = useState("");
+  const [loadingId, setLoadingId] = useState(null);
+  
+  const [showConfirmation, setShowConfirmation] = useState(false);
+  const [confirmAction, setConfirmAction] = useState(null);
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const data = await ListeValidationPlannfication(); // 👉 récupérer la liste
+        const data = await ListeValidationPlannfication(); 
         setPlannifications(data);
-        const toutdata = await ListPlannification(); // 👉 récupérer la liste
+        const toutdata = await ListPlannification(); 
         setToutPlannifications(toutdata);
+        const dataUtilisateur = await getUser();
+        setUtilisateur(dataUtilisateur);
       } catch (error) {
         setMessage(error.message);
       }
@@ -35,6 +43,26 @@ function Validation() {
       .trim()
       .normalize("NFD")
       .replace(/[\u0300-\u036f]/g, "");
+  };
+
+  const getEtatName = (plannification) => {
+    return (
+      plannification?.etat_nameplannification ||
+      plannification?.etat_name ||
+      plannification?.etatp_name ||
+      plannification?.etat?.etatp_name ||
+      ""
+    );
+  };
+
+  const canValidateStatus = (etatName) => {
+    const normalized = normalizeStatus(etatName);
+    return (
+      normalized === "non valide" ||
+      normalized === "en attente" ||
+      normalized === "a valider" ||
+      normalized === "a valide"
+    );
   };
   const closeModals = () => {
     setShowDetailModal(false);
@@ -56,36 +84,62 @@ function Validation() {
 
 
   const handleUpdate = async (plannification) => {
+    setLoadingId(plannification.plan_id);
     try {
       const updated = await validationPlannification(plannification.plan_id);
-      setMessage("La plannification a été validée ✅");
+      
+      // Envoyer un mail de confirmation de validation
+      await EnvoiMail(
+        "plannification_budget_valider",
+        "akjeachan@gmail.com",
+        {
+          userName: utilisateur?.user_name || "Utilisateur",
+          departement: utilisateur?.dept_name || "Non spécifié",
+          date: new Date().toLocaleDateString('fr-FR'),
+          projet: plannification.prod_name || "N/A",
+          montant: plannification.plan_montanttotal?.toLocaleString('fr-FR') || "0",
+          description: `Validation de ${plannification.plan_nombredemande} unité(s) de ${plannification.prod_name}`
+        }
+      );
+      
+      setMessage("La plannification a été validée ✅ et un mail de confirmation a été envoyé.");
       setPlannifications((prev) =>
         prev.map((p) => (p.plan_id === updated.plan_id ? updated : p))
       );
     } catch (error) {
       setMessage(error.message);
+    } finally {
+      setLoadingId(null);
     }
   };
 
   // Fonction pour déterminer le badge selon le statut
   const getStatusBadge = (etatpName) => {
-    if (etatpName === "validé") return "badge-success";
-    if (etatpName === "non validé") return "badge-warning";
-    if (etatpName === "a validé") return "badge-danger";
+    const normalized = normalizeStatus(etatpName);
+
+    if (normalized === "valide") return "badge-success";
+    if (normalized === "non valide" || normalized === "en attente" || normalized === "a valider" || normalized === "a valide") return "badge-warning";
+    if (normalized === "rejete") return "badge-danger";
     return "badge-info";
   };
 
   const getStatusColor = (etatpName) => {
-    if (etatpName === "validé") return "#10b981";
-    if (etatpName === "non validé") return "#f59e0b";
-    if (etatpName === "rejeté") return "#ef4444";
+    const normalized = normalizeStatus(etatpName);
+
+    if (normalized === "valide") return "#10b981";
+    if (normalized === "non valide" || normalized === "en attente" || normalized === "a valider" || normalized === "a valide") return "#f59e0b";
+    if (normalized === "rejete") return "#ef4444";
     return "#3b82f6";
   };
 
   // Calculer le montant maximum pour le graphique
   const filteredPlannifications = toutplannification.filter(p => {
     if (filterStatus === "tous") return true;
-    return p.etat?.etatp_name === filterStatus;
+
+    const statusNormalized = normalizeStatus(getEtatName(p));
+    const filterNormalized = normalizeStatus(filterStatus);
+
+    return statusNormalized === filterNormalized;
   });
 
   const maxMontant = filteredPlannifications.length > 0
@@ -207,7 +261,7 @@ function Validation() {
                         style={{
                           width: "60px",
                           height: `${height}%`,
-                          backgroundColor: getStatusColor(p.etat?.etatp_name),
+                          backgroundColor: getStatusColor(getEtatName(p)),
                           borderRadius: "8px 8px 0 0",
                           position: "relative",
                           transition: "all 0.3s ease",
@@ -258,11 +312,11 @@ function Validation() {
                         padding: "2px 8px",
                         fontSize: "10px",
                         borderRadius: "12px",
-                        backgroundColor: getStatusColor(p.etat?.etatp_name),
+                        backgroundColor: getStatusColor(getEtatName(p)),
                         color: "white",
                         fontWeight: "500",
                       }}>
-                        {p.etat?.etatp_name || "..."}
+                        {getStatusText(getEtatName(p))}
                       </div>
                     </div>
                   );
@@ -363,19 +417,33 @@ function Validation() {
                   <td>{p.plan_montanttotal?.toLocaleString("fr-FR")} Ar</td>
                   <td>{p.dept_name}</td>
                   <td className="text-center">
-                    <span className={`badge ${getStatusBadge(p.etat?.etatp_name)}`}>
-                      {getStatusText(p.etat?.etatp_name)}
+                    <span className={`badge ${getStatusBadge(getEtatName(p))}`}>
+                      {getStatusText(getEtatName(p))}
                     </span>
 
                   </td>
                   <td className="text-center" onClick={(e) => e.stopPropagation()}>
                     <div className="table-actions">
-                      <button
-                        className="btn-primary"
-                        onClick={() => handleUpdate(p)}
-                      >
-                        Valider
-                      </button>
+                      {canValidateStatus(getEtatName(p)) ? (
+                        <button
+                          className="btn-primary"
+                          onClick={() => {
+                            setConfirmAction(() => () => handleUpdate(p));
+                            setShowConfirmation(true);
+                          }}
+                          disabled={loadingId === p.plan_id}
+                          style={{
+                            opacity: loadingId === p.plan_id ? 0.6 : 1,
+                            cursor: loadingId === p.plan_id ? 'not-allowed' : 'pointer'
+                          }}
+                        >
+                          {loadingId === p.plan_id ? '⏳ Traitement...' : 'Valider'}
+                        </button>
+                      ) : (
+                        <button className="btn-primary" onClick={() => openDetailModal(p)}>
+                          Détails
+                        </button>
+                      )}
                     </div>
                   </td>
                 </tr>
@@ -500,8 +568,8 @@ function Validation() {
                   }}>
                     Statut
                   </label>
-                  <span className={`badge ${getStatusBadge(selected.etatp_name)}`}>
-                    {getStatusText(selected.etatp_name)}
+                  <span className={`badge ${getStatusBadge(getEtatName(selected))}`}>
+                    {getStatusText(getEtatName(selected))}
                   </span>
                 </div>
               </div>
@@ -617,6 +685,25 @@ function Validation() {
           </div>
         </>
       )}
+
+      {/* Modal de Confirmation */}
+      <ConfirmationModal
+        isOpen={showConfirmation}
+        title="Confirmation de Validation"
+        message="Voulez-vous vraiment valider ?"
+        onConfirm={() => {
+          if (confirmAction) {
+            confirmAction();
+          }
+          setShowConfirmation(false);
+          setConfirmAction(null);
+        }}
+        onCancel={() => {
+          setShowConfirmation(false);
+          setConfirmAction(null);
+        }}
+        isLoading={loadingId !== null}
+      />
     </div>
   );
 }

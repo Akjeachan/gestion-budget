@@ -1,0 +1,167 @@
+### 🧪 Tests des Templates Email
+### Base URL
+@baseUrl = http://localhost:5000
+
+### ========================================
+### 1. VÉRIFIER LES TEMPLATES DISPONIBLES
+### ========================================
+
+GET {{baseUrl}}/api/EmailDiagnostic/templates
+
+### ========================================
+### 2. TESTER LE RENDU - PLANNIFICATION
+### ========================================
+
+POST {{baseUrl}}/api/EmailDiagnostic/test-template
+Content-Type: application/json
+
+{
+  "templateName": "plannification_budget",
+  "parameters": {
+    "userName": "Jean Dupont",
+    "departement": "Département Informatique",
+    "date": "17/02/2026 10:30:00",
+    "projet": "Migration Cloud Azure",
+    "montant": "5,000,000",
+    "description": "Migration complète de l'infrastructure vers Azure Cloud avec mise en place de la sécurité avancée."
+  }
+}
+
+### ========================================
+### 3. TESTER LE RENDU - PLANNIFICATION VALIDÉE
+### ========================================
+
+POST {{baseUrl}}/api/EmailDiagnostic/test-template
+Content-Type: application/json
+
+{
+  "templateName": "plannification_budget_valider",
+  "parameters": {
+    "userName": "Jean Dupont",
+    "departement": "Département Informatique",
+    "date": "17/02/2026 11:00:00",
+    "projet": "Migration Cloud Azure",
+    "montant": "5,000,000",
+    "description": "Migration complète de l'infrastructure vers Azure Cloud avec mise en place de la sécurité avancée.",
+    "validateur": "Marie Martin - Directeur IT"
+  }
+}
+
+### ========================================
+### 4. TESTER LE RENDU - RÉALISATION
+### ========================================
+
+POST {{baseUrl}}/api/EmailDiagnostic/test-template
+Content-Type: application/json
+
+{
+  "templateName": "realisation_budget",
+  "parameters": {
+    "userName": "Pierre Leclerc",
+    "departement": "Département Achats",
+    "date": "17/02/2026 14:30:00",
+    "projet": "Achat Serveurs Dell",
+    "montant": "3,500,000",
+    "description": "Achat de 10 serveurs Dell PowerEdge R750 pour l'infrastructure datacenter."
+  }
+}
+
+### ========================================
+### 5. TESTER LE RENDU - RÉALISATION VALIDÉE
+### ========================================
+
+POST {{baseUrl}}/api/EmailDiagnostic/test-template
+Content-Type: application/json
+
+{
+  "templateName": "realisation_budget_valider",
+  "parameters": {
+    "userName": "Pierre Leclerc",
+    "departement": "Département Achats",
+    "date": "17/02/2026 15:00:00",
+    "projet": "Achat Serveurs Dell",
+    "montant": "3,500,000",
+    "description": "Achat de 10 serveurs Dell PowerEdge R750 pour l'infrastructure datacenter.",
+    "validateur": "Sophie Bernard - Directeur Financier"
+  }
+}
+
+### ========================================
+### 6. TESTER ET ENVOYER UN EMAIL RÉEL
+### ⚠️ CHANGEZ L'EMAIL AVANT D'EXÉCUTER
+### ========================================
+
+POST {{baseUrl}}/api/EmailDiagnostic/test-template-and-send
+Content-Type: application/json
+
+{
+  "templateName": "plannification_budget",
+  "toEmail": "votre.email@example.com",
+  "parameters": {
+    "userName": "Test User",
+    "departement": "Département Test",
+    "date": "17/02/2026 10:30:00",
+    "projet": "Projet Test",
+    "montant": "1,000,000",
+    "description": "Ceci est un email de test pour vérifier le bon fonctionnement des templates."
+  }
+}
+
+### ========================================
+### 7. VÉRIFIER LA CONFIGURATION SMTP
+### ========================================
+
+GET {{baseUrl}}/api/EmailDiagnostic/config
+
+### ========================================
+### 8. TESTER LA CONNEXION SMTP
+### ========================================
+
+POST {{baseUrl}}/api/EmailDiagnostic/test-connection
+
+### ========================================
+### 9. ENVOYER UN EMAIL SIMPLE DE TEST
+### ⚠️ CHANGEZ L'EMAIL AVANT D'EXÉCUTER
+### ========================================
+
+POST {{baseUrl}}/api/EmailDiagnostic/test-send?to=votre.email@example.com
+
+### ========================================
+### 10. TEST COMPLET - PLANNIFICATION (PRODUCTION)
+### Utilise l'endpoint réel d'envoi
+### ========================================
+
+POST {{baseUrl}}/api/EnvoiMail/send-plannification
+Content-Type: application/json
+
+{
+  "templateName": "plannification_budget",
+  "parameters": {
+    "userName": "Jean Dupont",
+    "departement": "Département IT",
+    "date": "17/02/2026 10:30:00",
+    "projet": "Migration Cloud",
+    "montant": "5,000,000",
+    "description": "Migration complète vers Azure Cloud"
+  }
+}
+
+### ========================================
+### 11. DRY RUN - SIMULATION SANS ENVOI
+### Simule l'envoi sans envoyer réellement
+### ========================================
+
+POST {{baseUrl}}/api/EnvoiMail/dry-run-plannification
+Content-Type: application/json
+
+{
+  "templateName": "plannification_budget",
+  "parameters": {
+    "userName": "Test User",
+    "departement": "Test Department",
+    "date": "17/02/2026 10:30:00",
+    "projet": "Test Project",
+    "montant": "1,000,000",
+    "description": "Test description"
+  }
+}

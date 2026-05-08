@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 0;
+            padding: 0;
+        }
+        .container { 
+            padding: 20px; 
+            background-color: #f4f4f4; 
+        }
+        .content { 
+            background-color: white; 
+            padding: 30px; 
+            border-radius: 10px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .header { 
+            color: #333;
+            border-bottom: 3px solid #007bff;
+            padding-bottom: 10px;
+        }
+        .info-box {
+            background-color: #e7f3ff;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .label {
+            font-weight: bold;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <h1 class="header">Nouveau message de contact</h1>
+            <div class="info-box">
+                <p><span class="label">De :</span> {{senderName}}</p>
+                <p><span class="label">Email :</span> {{senderEmail}}</p>
+                <p><span class="label">Date :</span> {{date}}</p>
+            </div>
+            <p><span class="label">Sujet :</span> {{subject}}</p>
+            <p><span class="label">Message :</span></p>
+            <div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px;">
+                {{message}}
+            </div>
+            <p style="margin-top: 30px; color: #666; font-size: 14px;">
+                Cet email a été envoyé automatiquement depuis le formulaire de contact.
+            </p>
+        </div>
+    </div>
+</body>
+</html>

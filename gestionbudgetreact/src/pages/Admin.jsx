@@ -90,6 +90,12 @@ function Admin() {
                             <span className="sidebar-menu-text">Utilisateurs</span>
                         </Link>
                     </li>
+                    <li>
+                        <Link to="/comparaison" className="sidebar-menu-link" onClick={closeMobileSidebar}>
+                            <span className="material-icons">compare</span>
+                            <span className="sidebar-menu-text">Comparaison</span>
+                        </Link>
+                    </li>
                 </ul>
 
                 <div className="sidebar-footer">

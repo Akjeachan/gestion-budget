@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container { 
+            padding: 20px; 
+            background-color: #f5f5f5; 
+        }
+        .content { 
+            background-color: white; 
+            padding: 40px; 
+            border-radius: 8px;
+            max-width: 600px;
+            margin: 0 auto;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .header { 
+            color: #2c3e50;
+            font-size: 24px;
+            margin: 0 0 30px 0;
+            border-left: 4px solid #3498db;
+            padding-left: 15px;
+            font-weight: 600;
+        }
+        .info-box {
+            background-color: #ecf0f1;
+            padding: 20px;
+            border-radius: 6px;
+            margin: 20px 0;
+        }
+        .info-row {
+            margin: 12px 0;
+            display: flex;
+            justify-content: space-between;
+        }
+        .label {
+            font-weight: 600;
+            color: #2c3e50;
+            min-width: 130px;
+        }
+        .value {
+            color: #555;
+        }
+        .budget-amount {
+            font-size: 20px;
+            color: #2c3e50;
+            font-weight: 600;
+            text-align: center;
+            padding: 20px;
+            background-color: #ecf0f1;
+            border-left: 4px solid #3498db;
+            border-radius: 6px;
+            margin: 20px 0;
+        }
+        .description-box {
+            background-color: #f8f9fa; 
+            padding: 15px; 
+            border-radius: 6px;
+            border-left: 4px solid #bdc3c7;
+            margin-top: 10px;
+        }
+        .footer {
+            margin-top: 30px; 
+            color: #7f8c8d; 
+            font-size: 13px; 
+            text-align: center;
+            border-top: 1px solid #ecf0f1;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <h1 class="header">Nouvelle Plannification de Budget</h1>
+            
+            <div class="info-box">
+                <div class="info-row">
+                    <span class="label">Utilisateur :</span>
+                    <span class="value">{{userName}}</span>
+                </div>
+                <div class="info-row">
+                    <span class="label">Département :</span>
+                    <span class="value">{{departement}}</span>
+                </div>
+                <div class="info-row">
+                    <span class="label">Date :</span>
+                    <span class="value">{{date}}</span>
+                </div>
+            </div>
+            
+            <div style="margin: 20px 0;">
+                <div class="label">Objet de la demande</div>
+                <div class="value" style="margin-top: 8px;">{{projet}}</div>
+            </div>
+            
+            <div class="budget-amount">
+                Montant : {{montant}} Ar
+            </div>
+            
+            <div>
+                <div class="label">Description</div>
+                <div class="description-box">
+                    {{description}}
+                </div>
+            </div>
+            
+            <div class="footer">
+                Cette plannification nécessite votre validation.<br>
+                Cet email a été envoyé automatiquement par le système de gestion budgétaire.
+            </div>
+        </div>
+    </div>
+</body>
+</html>

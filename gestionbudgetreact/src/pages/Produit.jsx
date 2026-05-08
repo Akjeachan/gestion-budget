@@ -1,10 +1,12 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import { AjoutProduits, getNumeroCompte } from "../services/api";
+import { AjoutProduits, getNumeroCompte,ListeRubrique } from "../services/api";
 
 function Produit() {
   const [comptes, setComptes] = useState([]);        // list of comptes
+  const [rubriques, setRubrique] = useState([]);        // list of Rubrique
   const [selectedCompte, setSelectedCompte] = useState(""); // selected compte ID
+  const [selectedrubrique, setSelectedrubrique] = useState(""); // selected Rubrique ID
   const [nomproduit, setNomProduit] = useState("");
   const [message, setMessage] = useState("");
   const navigate = useNavigate();
@@ -14,6 +16,8 @@ function Produit() {
       try {
         const data = await getNumeroCompte();
         setComptes(data); // keep array intact
+        const data2 = await ListeRubrique();
+        setRubrique(data2); // keep array intact
       } catch (error) {
         setMessage(error.message);
       }
@@ -28,7 +32,7 @@ function Produit() {
         return;
       }
 
-      const data = await AjoutProduits(nomproduit, selectedCompte);
+      const data = await AjoutProduits(nomproduit, selectedCompte,selectedrubrique);
 
       setMessage("Insertion Produit réussie : " + data.prod_name);
       navigate("/plannification");
@@ -60,6 +64,22 @@ function Produit() {
             comptes.map((n) => (
               <option key={n.numcompt_id} value={n.numcompt_id}>
                 {n.numcompt_intitule}
+              </option>
+            ))}
+        </select>
+      </div>
+      <br /><br />
+      <div className="form-group">
+        <label>Rubrique</label>
+        <select
+          value={selectedrubrique}
+          onChange={(e) => setSelectedrubrique(e.target.value)}
+        >
+          <option value="">-- Sélectionnez un rubrique --</option>
+          {Array.isArray(rubriques) &&
+            rubriques.map((n) => (
+              <option key={n.rub_reference} value={n.rub_reference}>
+                {n.rub_nom}
               </option>
             ))}
         </select>

@@ -2,7 +2,17 @@ export const Api_Authentification = "http://localhost:5179/api/authentification"
 export const Api_Plannification = "http://localhost:5179/api/plannification";
 export const Api_Cloture = "http://localhost:5179/api/cloture";
 export const Api_BonPrecommande = "http://localhost:5179/api/bonprecommande";
+export const Api_Rubrique = "http://localhost:5179/api/rubrique";
+export const Api_Utilisateur = "http://localhost:5179/api/user";
 
+export const getUser = async () => {
+    const userId = sessionStorage.getItem("user_id");
+    const response = await fetch(Api_Utilisateur + "/" + userId);
+    if (!response.ok) {
+        throw new Error("Impossible de récupérer l'utilisateur");
+    }
+    return await response.json();
+};
 export const loginUser = async (identifiant, password) => {
     const response = await fetch(Api_Authentification + "/login", {
         method: "POST",
@@ -26,6 +36,20 @@ export const ListeValidationPlannfication = async () => {
     const response = await fetch(Api_Plannification + "/avalider");
     if (!response.ok) {
         throw new Error("Impossible de récupérer les plannification");
+    }
+    return await response.json();
+};
+export const ListeRubrique = async () => {
+    const response = await fetch(Api_Rubrique);
+    if (!response.ok) {
+        throw new Error("Impossible de récupérer les rubriques");
+    }
+    return await response.json();
+}
+export const ListeArticle = async () => {
+    const response = await fetch(Api_Rubrique+'/articleunique');
+    if (!response.ok) {
+        throw new Error("Impossible de récupérer les articles");
     }
     return await response.json();
 }
@@ -84,16 +108,14 @@ export const getProduits = async () => {
     }
     return await response.json();
 };
-export const AjoutProduits = async (nomproduit, NumeroCompte) => {
+export const AjoutProduits = async ( article,rubriqueref) => {
 
-    const userId = sessionStorage.getItem("user_id");
     const response = await fetch(Api_Produit, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-            prod_name: nomproduit,
-            prod_createdby: userId,
-            prod_numerocompteid: NumeroCompte
+            prod_articleref: article,
+            prod_rubriqueref: rubriqueref
 
         })
     });
@@ -159,9 +181,24 @@ export const ValidationBonprecommande = async (id, data) => {
         console.log("📡 Statut de la réponse:", response.status);
 
         if (!response.ok) {
-            const errorData = await response.json().catch(() => ({}));
-            console.error("❌ Erreur API:", errorData);
-            throw new Error(errorData.message || `Erreur HTTP: ${response.status}`);
+            // Lire le body UNE SEULE FOIS comme du texte
+            const bodyText = await response.text();
+            let errorData = {};
+            
+            // Essayer de le parser comme JSON
+            try {
+                errorData = JSON.parse(bodyText);
+            } catch (e) {
+                // Si ce n'est pas du JSON, prendre le texte brut
+                errorData = { message: bodyText };
+            }
+            
+            console.error("❌ Erreur API status:", response.status);
+            console.error("❌ Erreur API body:", bodyText);
+            console.error("❌ Erreur API data parsée:", errorData);
+            
+            const message = errorData.message || bodyText || `Erreur HTTP: ${response.status}`;
+            throw new Error(message);
         }
 
         const result = await response.json();
@@ -313,6 +350,14 @@ export const getBudget = async () => {
     }
     return await response.json();
 };
+export const getPlannificationByBudget = async (budgetId) => {
+    const response = await fetch(`${Api_Plannification}/budget/${budgetId}`);
+    if (!response.ok) {
+        throw new Error("Impossible de récupérer les planifications du budget");
+    }
+    return await response.json();
+};
+
 export const Api_reaffectation = "http://localhost:5179/api/reaffectation";
 export const AjoutReaffectation = async (budget1, budget2, montantreaffectation, description) => {
     const response = await fetch(Api_reaffectation, {
@@ -333,3 +378,47 @@ export const AjoutReaffectation = async (budget1, budget2, montantreaffectation,
     return await response.json();
 
 }
+export const Api_EnvoiMail = "http://localhost:5179/api/EmailDiagnostic/test-template-and-send";
+export const EnvoiMail = async (templateName, toEmail, parameters) => {
+    const response = await fetch(Api_EnvoiMail, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+            templateName: templateName,
+            toEmail: toEmail,
+            parameters: parameters
+        })
+    });
+
+    if (!response.ok) {
+        throw new Error(`Erreur HTTP: ${response.status}`);
+    }
+
+    return await response.json();
+};
+
+export const Api_Comparaison = "http://localhost:5179/api/comparaison";
+
+export const getComparaisonBudgets = async () => {
+    const response = await fetch(`${Api_Comparaison}/budgets-vs-realisations`);
+    if (!response.ok) {
+        throw new Error("Impossible de récupérer la comparaison des budgets");
+    }
+    return await response.json();
+};
+
+export const getRealisations = async () => {
+    const response = await fetch(`${Api_Comparaison}/realisations`);
+    if (!response.ok) {
+        throw new Error("Impossible de récupérer les réalisations");
+    }
+    return await response.json();
+};
+
+export const getStatistiques = async () => {
+    const response = await fetch(`${Api_Comparaison}/statistiques`);
+    if (!response.ok) {
+        throw new Error("Impossible de récupérer les statistiques");
+    }
+    return await response.json();
+};

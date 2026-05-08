@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 0;
+            padding: 0;
+        }
+        .container { 
+            padding: 20px; 
+            background-color: #f4f4f4; 
+        }
+        .content { 
+            background-color: white; 
+            padding: 30px; 
+            border-radius: 10px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .header { 
+            color: #333;
+            border-bottom: 3px solid #17a2b8;
+            padding-bottom: 10px;
+        }
+        .info-box {
+            background-color: #d1ecf1;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .label {
+            font-weight: bold;
+            color: #555;
+        }
+        .budget-amount {
+            font-size: 24px;
+            color: #17a2b8;
+            font-weight: bold;
+            text-align: center;
+            padding: 15px;
+            background-color: #e7f6f8;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .validation-badge {
+            background-color: #17a2b8;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 20px;
+            display: inline-block;
+            margin: 15px 0;
+        }
+        .success-icon {
+            font-size: 48px;
+            text-align: center;
+            color: #17a2b8;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <h1 class="header">🎯 Réalisation Validée</h1>
+            
+            <div class="success-icon">✓</div>
+            
+            <div style="text-align: center;">
+                <span class="validation-badge">RÉALISATION APPROUVÉE</span>
+            </div>
+            
+            <div class="info-box">
+                <p><span class="label">Utilisateur :</span> {{userName}}</p>
+                <p><span class="label">Département :</span> {{departement}}</p>
+                <p><span class="label">Validateur :</span> {{validateur}}</p>
+                <p><span class="label">Date de validation :</span> {{date}}</p>
+            </div>
+            
+            <p><span class="label">Projet :</span> {{projet}}</p>
+            
+            <div class="budget-amount">
+                ✓ Montant réalisé et validé : {{montant}} Ar
+            </div>
+            
+            <p><span class="label">Description :</span></p>
+            <div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px;">
+                {{description}}
+            </div>
+            
+            <p style="margin-top: 30px; color: #666; font-size: 14px; text-align: center;">
+                ✓ Ce budget a été entièrement validé et finalisé.<br>
+                Le processus de gestion budgétaire est maintenant complet.<br>
+                Cet email a été envoyé automatiquement par le système de gestion budgétaire.
+            </p>
+        </div>
+    </div>
+</body>
+</html>

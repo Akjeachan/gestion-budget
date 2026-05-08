@@ -1,0 +1,1106 @@
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\appsettings.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\GestionBudgetApi.staticwebassets.runtime.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\GestionBudgetApi.staticwebassets.endpoints.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\GestionBudgetApi.exe
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\GestionBudgetApi.deps.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\GestionBudgetApi.runtimeconfig.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\GestionBudgetApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\GestionBudgetApi.pdb
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Humanizer.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\GestionBudgetApi.csproj.AssemblyReference.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\GestionBudgetApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\GestionBudgetApi.AssemblyInfoInputs.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\GestionBudgetApi.AssemblyInfo.cs
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\GestionBudgetApi.csproj.CoreCompileInputs.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\GestionBudgetApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\GestionBudgetApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\scopedcss\bundle\GestionBudgetApi.styles.css
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\GestionB.FD65E713.Up2Date
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\GestionBudgetApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\refint\GestionBudgetApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\GestionBudgetApi.pdb
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\GestionBudgetApi.genruntimeconfig.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\GestionBudgetApi\obj\Debug\net9.0\ref\GestionBudgetApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\appsettings.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\GestionBudgetApi.staticwebassets.runtime.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\GestionBudgetApi.staticwebassets.endpoints.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\GestionBudgetApi.exe
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\GestionBudgetApi.deps.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\GestionBudgetApi.runtimeconfig.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\GestionBudgetApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\GestionBudgetApi.pdb
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Humanizer.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\GestionBudgetApi.csproj.AssemblyReference.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\GestionBudgetApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\GestionBudgetApi.AssemblyInfoInputs.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\GestionBudgetApi.AssemblyInfo.cs
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\GestionBudgetApi.csproj.CoreCompileInputs.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\GestionBudgetApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\GestionBudgetApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\scopedcss\bundle\GestionBudgetApi.styles.css
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\GestionB.FD65E713.Up2Date
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\GestionBudgetApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\refint\GestionBudgetApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\GestionBudgetApi.pdb
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\GestionBudgetApi.genruntimeconfig.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v2\obj\Debug\net9.0\ref\GestionBudgetApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\appsettings.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\GestionBudgetApi.staticwebassets.runtime.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\GestionBudgetApi.staticwebassets.endpoints.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\GestionBudgetApi.exe
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\GestionBudgetApi.deps.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\GestionBudgetApi.runtimeconfig.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\GestionBudgetApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\GestionBudgetApi.pdb
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Humanizer.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\GestionBudgetApi.csproj.AssemblyReference.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\GestionBudgetApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\GestionBudgetApi.AssemblyInfoInputs.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\GestionBudgetApi.AssemblyInfo.cs
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\GestionBudgetApi.csproj.CoreCompileInputs.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\GestionBudgetApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\GestionBudgetApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\scopedcss\bundle\GestionBudgetApi.styles.css
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\GestionB.FD65E713.Up2Date
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\GestionBudgetApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\refint\GestionBudgetApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\GestionBudgetApi.pdb
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\GestionBudgetApi.genruntimeconfig.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v3\obj\Debug\net9.0\ref\GestionBudgetApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\appsettings.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\GestionBudgetApi.staticwebassets.runtime.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\GestionBudgetApi.staticwebassets.endpoints.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\GestionBudgetApi.exe
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\GestionBudgetApi.deps.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\GestionBudgetApi.runtimeconfig.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\GestionBudgetApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\GestionBudgetApi.pdb
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Humanizer.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.csproj.AssemblyReference.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.AssemblyInfoInputs.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.AssemblyInfo.cs
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.csproj.CoreCompileInputs.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\scopedcss\bundle\GestionBudgetApi.styles.css
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionB.FD65E713.Up2Date
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\refint\GestionBudgetApi.dll
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.pdb
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.genruntimeconfig.cache
+C:\Users\akjea\OneDrive\Documents\SoftwellProject\Projet_Gestion_Budget\gestionbudgetapi v4\obj\Debug\net9.0\ref\GestionBudgetApi.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\appsettings.Development.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\appsettings.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\GestionBudgetApi.staticwebassets.runtime.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\GestionBudgetApi.staticwebassets.endpoints.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\GestionBudgetApi.exe
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\GestionBudgetApi.deps.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\GestionBudgetApi.runtimeconfig.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\GestionBudgetApi.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\GestionBudgetApi.pdb
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Azure.Core.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Azure.Identity.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Humanizer.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\MailKit.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\MimeKit.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.ClientModel.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.CodeDom.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.csproj.AssemblyReference.cache
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.AssemblyInfoInputs.cache
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.AssemblyInfo.cs
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.csproj.CoreCompileInputs.cache
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\scopedcss\bundle\GestionBudgetApi.styles.css
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\compressed\86m9bipg3p-cjcjhw67u0.gz
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\compressed\o5zxz8wlxc-30yk4yl3ca.gz
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\compressed\xf59okrgcj-40gy17yiv8.gz
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\compressed\fezq4fno7n-xjpvaq1b9d.gz
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\compressed\okzg8r6qwy-y1qspwx9wb.gz
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\compressed\63gqhoig50-1kej8hlble.gz
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\compressed\u7fpxe6m7t-h4dw4ezzii.gz
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\compressed\eoba9hvno4-949g9tbfvy.gz
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\compressed\xke8qtdqoj-acb83kcic6.gz
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\compressed\lns42z9pk8-bfocazdkfe.gz
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\compressed\bnoloz91lp-jbqqmq3wen.gz
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\compressed\wsm4y66z3w-ebsgqsa1fe.gz
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\staticwebassets.build.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\staticwebassets.development.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionB.FD65E713.Up2Date
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\refint\GestionBudgetApi.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.pdb
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\GestionBudgetApi.genruntimeconfig.cache
+D:\Projet Gestion de Budget\gestionbudgetapi v4\obj\Debug\net9.0\ref\GestionBudgetApi.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\appsettings.Development.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\appsettings.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\GestionBudgetApi.staticwebassets.runtime.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\GestionBudgetApi.staticwebassets.endpoints.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\GestionBudgetApi.exe
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\GestionBudgetApi.deps.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\GestionBudgetApi.runtimeconfig.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\GestionBudgetApi.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\GestionBudgetApi.pdb
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Azure.Core.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Azure.Identity.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\BouncyCastle.Cryptography.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Humanizer.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\MailKit.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.AspNetCore.OpenApi.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.Build.Locator.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.CodeAnalysis.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.Data.SqlClient.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.EntityFrameworkCore.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.Extensions.DependencyModel.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.Identity.Client.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.IdentityModel.Abstractions.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.IdentityModel.Logging.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.IdentityModel.Protocols.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.IdentityModel.Tokens.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.OpenApi.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.SqlServer.Server.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Microsoft.Win32.SystemEvents.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\MimeKit.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\Mono.TextTemplating.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\System.ClientModel.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\System.CodeDom.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\System.Composition.AttributedModel.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\System.Composition.Convention.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\System.Composition.Hosting.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\System.Composition.Runtime.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\System.Composition.TypedParts.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\System.Configuration.ConfigurationManager.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\System.Drawing.Common.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\System.IdentityModel.Tokens.Jwt.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\System.Memory.Data.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\System.Runtime.Caching.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\System.Security.Cryptography.ProtectedData.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\System.Security.Permissions.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\System.Windows.Extensions.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\build-temp\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\build-temp\appsettings.Development.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\build-temp\appsettings.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\build-temp\GestionBudgetApi.deps.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\build-temp\GestionBudgetApi.runtimeconfig.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\build-temp\GestionBudgetApi.staticwebassets.endpoints.json
+D:\Projet Gestion de Budget\gestionbudgetapi v4\bin\Debug\net9.0\build-temp\GestionBudgetApi.staticwebassets.runtime.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\GestionBudgetApi.csproj.AssemblyReference.cache
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\GestionBudgetApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\GestionBudgetApi.AssemblyInfoInputs.cache
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\GestionBudgetApi.AssemblyInfo.cs
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\GestionBudgetApi.csproj.CoreCompileInputs.cache
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\GestionBudgetApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\GestionBudgetApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\GestionBudgetApi.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\refint\GestionBudgetApi.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\GestionBudgetApi.pdb
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\appsettings.Development.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\appsettings.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\build-temp\appsettings.Development.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\build-temp\appsettings.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\build-temp\GestionBudgetApi.deps.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\build-temp\GestionBudgetApi.runtimeconfig.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\build-temp\GestionBudgetApi.staticwebassets.endpoints.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\build-temp\GestionBudgetApi.staticwebassets.runtime.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\GestionBudgetApi.staticwebassets.endpoints.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\GestionBudgetApi.staticwebassets.runtime.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\GestionBudgetApi.exe
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\GestionBudgetApi.deps.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\GestionBudgetApi.runtimeconfig.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\GestionBudgetApi.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\GestionBudgetApi.pdb
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Azure.Core.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Azure.Identity.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Humanizer.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\MailKit.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\MimeKit.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\System.ClientModel.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\System.CodeDom.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\scopedcss\bundle\GestionBudgetApi.styles.css
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\compressed\86m9bipg3p-cjcjhw67u0.gz
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\compressed\o5zxz8wlxc-30yk4yl3ca.gz
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\compressed\xf59okrgcj-40gy17yiv8.gz
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\compressed\fezq4fno7n-xjpvaq1b9d.gz
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\compressed\okzg8r6qwy-y1qspwx9wb.gz
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\compressed\63gqhoig50-1kej8hlble.gz
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\compressed\u7fpxe6m7t-h4dw4ezzii.gz
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\compressed\eoba9hvno4-949g9tbfvy.gz
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\compressed\xke8qtdqoj-acb83kcic6.gz
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\compressed\lns42z9pk8-bfocazdkfe.gz
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\compressed\bnoloz91lp-jbqqmq3wen.gz
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\compressed\wsm4y66z3w-ebsgqsa1fe.gz
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\staticwebassets.build.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\staticwebassets.development.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\GestionB.FD65E713.Up2Date
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\GestionBudgetApi.genruntimeconfig.cache
+D:\Projet Gestion de Budget\gestionbudgetapiv4\obj\Debug\net9.0\ref\GestionBudgetApi.dll

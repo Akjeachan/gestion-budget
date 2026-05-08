@@ -29,6 +29,19 @@ function ListeProduit() {
         setSelected(null);
     };
 
+    const getStatusBadge = (status) => {
+        switch(status) {
+            case 'En attente':
+                return 'badge-warning';
+            case 'Approuvé':
+                return 'badge-success';
+            case 'Rejeté':
+                return 'badge-danger';
+            default:
+                return 'badge-secondary';
+        }
+    };
+
     const handleUpdate = async () => {
         try {
             const updated = await updateProduit(selected.prod_id, selected);
@@ -56,7 +69,10 @@ function ListeProduit() {
                         <tr>
                             <th>ID</th>
                             <th>Produit</th>
-                            <th>Numero de Compte</th>
+                            <th>Prix Unitaire</th>
+                            <th>Nombre Demandé</th>
+                            <th>Montant Total</th>
+                            <th>Statut</th>
                             <th className="text-center">Actions</th>
                         </tr>
                     </thead>
@@ -133,7 +149,7 @@ function ListeProduit() {
                             boxShadow: "0 10px 40px rgba(0, 0, 0, 0.3)",
                         }}
                     >
-                        <h2>Modifier Plannification</h2>
+                        <h2>Modifier Produit</h2>
 
                         <div className="form-group">
                             <label>Produit ID:</label>

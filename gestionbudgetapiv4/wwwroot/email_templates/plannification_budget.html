@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 0;
+            padding: 0;
+        }
+        .container { 
+            padding: 20px; 
+            background-color: #f4f4f4; 
+        }
+        .content { 
+            background-color: white; 
+            padding: 30px; 
+            border-radius: 10px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .header { 
+            color: #333;
+            border-bottom: 3px solid #007bff;
+            padding-bottom: 10px;
+        }
+        .info-box {
+            background-color: #e7f3ff;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .label {
+            font-weight: bold;
+            color: #555;
+        }
+        .budget-amount {
+            font-size: 24px;
+            color: #007bff;
+            font-weight: bold;
+            text-align: center;
+            padding: 15px;
+            background-color: #f0f8ff;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <h1 class="header">📋 Nouvelle Plannification de Budget</h1>
+            
+            <div class="info-box">
+                <p><span class="label">Utilisateur :</span> {{userName}}</p>
+                <p><span class="label">Département :</span> {{departement}}</p>
+                <p><span class="label">Date :</span> {{date}}</p>
+            </div>
+            
+            <p><span class="label">Projet :</span> {{projet}}</p>
+            
+            <div class="budget-amount">
+                💰 Montant : {{montant}} Ar
+            </div>
+            
+            <p><span class="label">Description :</span></p>
+            <div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px;">
+                {{description}}
+            </div>
+            
+            <p style="margin-top: 30px; color: #666; font-size: 14px; text-align: center;">
+                ⚠️ Cette plannification nécessite votre validation.<br>
+                Cet email a été envoyé automatiquement par le système de gestion budgétaire.
+            </p>
+        </div>
+    </div>
+</body>
+</html>

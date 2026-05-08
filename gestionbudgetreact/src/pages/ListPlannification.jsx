@@ -40,7 +40,7 @@ function ListePlannification() {
     const handleUpdate = async () => {
         try {
             const updated = await updatePlannification(selected.plan_id, selected);
-            setMessage("Plannification mise à jour avec succès");
+            setMessage("Planification mise à jour avec succès");
 
             setPlannifications((prev) =>
                 prev.map((p) => (p.plan_id === updated.plan_id ? updated : p))
@@ -59,6 +59,10 @@ function ListePlannification() {
             .trim()
             .normalize("NFD")
             .replace(/[\u0300-\u036f]/g, "");
+    };
+
+    const getEtatName = (plannif) => {
+        return plannif?.etat_nameplannification || plannif?.etat_name || plannif?.etatp_name || plannif?.etat?.etatp_name || "";
     };
 
     const getStatusBadge = (etatpName) => {
@@ -86,9 +90,10 @@ function ListePlannification() {
 
     const filteredPlannifications = plannifications.filter(p => {
         if (filterStatus === "tous") return true;
-        if (!p.etatp_name) return false;
+        const etatName = getEtatName(p);
+        if (!etatName) return false;
         
-        const statusNormalized = normalizeStatus(p.etatp_name);
+        const statusNormalized = normalizeStatus(etatName);
         const filterNormalized = normalizeStatus(filterStatus);
         
         return statusNormalized === filterNormalized;
@@ -100,7 +105,7 @@ function ListePlannification() {
 
     return (
         <div style={{ padding: "40px" }}>
-            <h1>Liste des Plannifications</h1>
+            <h1>Liste des Planifications</h1>
             {message && <p className="message message-info">{message}</p>}
 
             {plannifications.length > 0 && (
@@ -246,7 +251,7 @@ function ListePlannification() {
                                                 color: "#6b7280",
                                                 fontWeight: "500"
                                             }}>
-                                                {getStatusText(p.etatp_name)}
+                                                {getStatusText(getEtatName(p))}
                                             </div>
                                         </div>
                                     );
@@ -334,8 +339,8 @@ function ListePlannification() {
                                     <td>{p.plan_nombredemande || 0}</td>
                                     <td>{p.plan_montanttotal?.toLocaleString('fr-FR') || "0"} Ar</td>
                                     <td className="text-center">
-                                        <span className={`badge ${getStatusBadge(p.etatp_name)}`}>
-                                            {getStatusText(p.etatp_name)}
+                                        <span className={`badge ${getStatusBadge(getEtatName(p))}`}>
+                                            {getStatusText(getEtatName(p))}
                                         </span>
                                     </td>
                                     <td className="text-center" onClick={(e) => e.stopPropagation()}>
@@ -578,8 +583,8 @@ function ListePlannification() {
                                 }}>
                                     Statut
                                 </label>
-                                <span className={`badge ${getStatusBadge(selected.etatp_name)}`}>
-                                    {getStatusText(selected.etatp_name)}
+                                <span className={`badge ${getStatusBadge(getEtatName(selected))}`}>
+                                    {getStatusText(getEtatName(selected))}
                                 </span>
                             </div>
 

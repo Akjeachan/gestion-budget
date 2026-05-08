@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
-import { ValidationRealisation, ListRealisationencours, ListToutRealisation } from "../services/api";
+import { ValidationRealisation, ListRealisationencours, ListToutRealisation, EnvoiMail, getUser } from "../services/api";
+import ConfirmationModal from "../components/ConfirmationModal";
 
 function ListeRealisationAdmin() {
   const [realisation, setRealisation] = useState([]);
@@ -8,6 +9,12 @@ function ListeRealisationAdmin() {
   const [showDetailModal, setShowDetailModal] = useState(false);
   const [selected, setSelected] = useState(null);
   const [filterStatus, setFilterStatus] = useState("tous");
+  const [utilisateur, setUtilisateur] = useState(null);
+  const [validatingIds, setValidatingIds] = useState(new Set());
+
+  // States pour la confirmation
+  const [showConfirmation, setShowConfirmation] = useState(false);
+  const [confirmAction, setConfirmAction] = useState(null);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -16,6 +23,8 @@ function ListeRealisationAdmin() {
         setRealisation(data);
         const dataall = await ListToutRealisation();
         setToutRealisation(dataall);
+        const dataUtilisateur = await getUser();
+        setUtilisateur(dataUtilisateur);
       } catch (error) {
         setMessage(error.message);
       }
@@ -35,43 +44,122 @@ function ListeRealisationAdmin() {
 
   const handleRealisation = async (e, realisationId) => {
     e.stopPropagation();
-    try {
-      await ValidationRealisation(realisationId);
-      setMessage("✅ Validation Réalisation réussie !");
-      
-      // Mettre à jour la liste des réalisations en cours
-      setRealisation((prev) =>
-        prev.filter((r) => r.real_id !== realisationId)
-      );
-      
-      // Mettre à jour la liste complète
-      setToutRealisation((prev) =>
-        prev.map((r) =>
-          r.real_id === realisationId
-            ? { ...r, etatp_name: "validé" }
-            : r
-        )
-      );
-      
-      // Fermer la modal si elle affiche la réalisation validée
-      if (selected && selected.real_id === realisationId) {
-        closeModals();
+    
+    setConfirmAction(() => async () => {
+      try {
+        // Ajouter à la liste des IDs en cours de validation (grisement)
+        setValidatingIds(prev => new Set(prev).add(realisationId));
+        
+        // Récupérer les détails de la réalisation pour l'email
+        const realisationDetails = realisation.find(r => r.real_id === realisationId) || 
+                                    toutrealisation.find(r => r.real_id === realisationId);
+        
+        await ValidationRealisation(realisationId);
+        
+        // Envoyer l'email de confirmation
+        try {
+          await EnvoiMail(
+            "realisation_budget_valider",
+            "akjeachan@gmail.com",
+            {
+              userName: utilisateur?.user_name || "Utilisateur",
+              departement: utilisateur?.dept_name || "Non spécifié",
+              date: new Date().toLocaleDateString('fr-FR'),
+              produit: realisationDetails?.prod_name || "Produit",
+              montant: realisationDetails?.real_montantreel?.toLocaleString('fr-FR') || "0",
+              montantPlan: realisationDetails?.plan_montanttotal?.toLocaleString('fr-FR') || "0"
+            }
+          );
+          console.log("✅ Email envoyé avec succès");
+        } catch (mailError) {
+          console.warn("⚠️ Erreur lors de l'envoi de l'email:", mailError);
+        }
+        
+        setMessage("✅ Validation Réalisation réussie et email envoyé !");
+        
+        // Mettre à jour la liste des réalisations en cours
+        setRealisation((prev) =>
+          prev.filter((r) => r.real_id !== realisationId)
+        );
+        
+        // Mettre à jour la liste complète
+        setToutRealisation((prev) =>
+          prev.map((r) =>
+            r.real_id === realisationId
+              ? { ...r, etat_namerealisation: "validé", etat_name: "validé", etatp_name: "validé" }
+              : r
+          )
+        );
+        
+        // Fermer la modal si elle affiche la réalisation validée
+        if (selected && selected.real_id === realisationId) {
+          closeModals();
+        }
+      } catch (error) {
+        setMessage("❌ Erreur : " + (error.response?.data?.message || error.message));
+      } finally {
+        // Retirer de la liste des IDs en cours de validation
+        setValidatingIds(prev => {
+          const newSet = new Set(prev);
+          newSet.delete(realisationId);
+          return newSet;
+        });
       }
-    } catch (error) {
-      setMessage("❌ Erreur : " + (error.response?.data?.message || error.message));
-    }
+    });
+    
+    setShowConfirmation(true);
   };
 
   const getStatusBadge = (etatpName) => {
-    if (etatpName === "validé") return "badge-success";
-    if (etatpName === "non validé") return "badge-warning";
-    if (etatpName === "rejeté") return "badge-danger";
+    const normalized = normalizeStatus(etatpName);
+    if (normalized === "valide") return "badge-success";
+    if (normalized === "non valide" || normalized === "en attente" || normalized === "a valider" || normalized === "a valide" || normalized === "non realiser" || normalized === "non realise") return "badge-warning";
+    if (normalized === "rejete") return "badge-danger";
     return "badge-info";
+  };
+
+  const normalizeStatus = (status) => {
+    if (!status) return "";
+    return status
+      .toLowerCase()
+      .trim()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "");
+  };
+
+  const getEtatName = (item) => {
+    return item?.etat_namerealisation || item?.etat_name || item?.etatp_name || item?.etat?.etatp_name || "";
+  };
+
+  const getStatusText = (etatName) => {
+    if (!etatName) return "En attente";
+    const normalized = normalizeStatus(etatName);
+
+    if (normalized === "valide") return "Validé";
+    if (normalized === "non valide") return "Non validé";
+    if (normalized === "non realiser" || normalized === "non realise") return "En attente";
+    if (normalized === "rejete") return "Rejeté";
+    if (normalized === "en attente") return "En attente";
+    if (normalized === "a valider" || normalized === "a valide") return "À valider";
+
+    return etatName;
+  };
+
+  const canValidateStatus = (etatName) => {
+    const normalized = normalizeStatus(etatName);
+    return (
+      normalized === "non valide" ||
+      normalized === "en attente" ||
+      normalized === "a valider" ||
+      normalized === "a valide"
+    );
   };
 
   const filteredRealisation = toutrealisation.filter(r => {
     if (filterStatus === "tous") return true;
-    return r.etatp_name === filterStatus;
+    const statusNormalized = normalizeStatus(getEtatName(r));
+    const filterNormalized = normalizeStatus(filterStatus);
+    return statusNormalized === filterNormalized;
   });
 
   const maxMontant = filteredRealisation.length > 0 
@@ -226,7 +314,7 @@ function ListeRealisationAdmin() {
                         color: "#6b7280",
                         fontWeight: "500"
                       }}>
-                        {r.etatp_name || "..."}
+                        {getStatusText(getEtatName(r))}
                       </div>
                     </div>
                   );
@@ -309,18 +397,29 @@ function ListeRealisationAdmin() {
                   <td>{r.budget_montant?.toLocaleString("fr-FR") || "0"} Ar</td>
                   <td>{r.budget_code || "N/A"}</td>
                   <td className="text-center">
-                    <span className={`badge ${getStatusBadge(r.etatp_name)}`}>
-                      {r.etatp_name || "En attente"}
+                    <span className={`badge ${getStatusBadge(getEtatName(r))}`}>
+                      {getStatusText(getEtatName(r))}
                     </span>
                   </td>
                   <td className="text-center" onClick={(e) => e.stopPropagation()}>
                     <div className="table-actions">
-                      <button 
-                        className="btn-primary" 
-                        onClick={(e) => handleRealisation(e, r.real_id)}
-                      >
-                        Valider
-                      </button>
+                      {canValidateStatus(getEtatName(r)) ? (
+                        <button 
+                          className="btn-primary" 
+                          onClick={(e) => handleRealisation(e, r.real_id)}
+                          disabled={validatingIds.has(r.real_id)}
+                          style={{
+                            opacity: validatingIds.has(r.real_id) ? 0.5 : 1,
+                            cursor: validatingIds.has(r.real_id) ? 'not-allowed' : 'pointer'
+                          }}
+                        >
+                          {validatingIds.has(r.real_id) ? "⏳ Validation..." : "Valider"}
+                        </button>
+                      ) : (
+                        <button className="btn-primary" onClick={() => openDetailModal(r)}>
+                          Détails
+                        </button>
+                      )}
                     </div>
                   </td>
                 </tr>
@@ -444,8 +543,8 @@ function ListeRealisationAdmin() {
                   }}>
                     Statut
                   </label>
-                  <span className={`badge ${getStatusBadge(selected.etatp_name)}`}>
-                    {selected.etatp_name || "En attente"}
+                  <span className={`badge ${getStatusBadge(getEtatName(selected))}`}>
+                    {getStatusText(getEtatName(selected))}
                   </span>
                 </div>
               </div>
@@ -608,7 +707,7 @@ function ListeRealisationAdmin() {
                 </div>
               )}
 
-              {selected.real_image && (
+              {selected.real_image && selected.real_image.trim() !== "" && (
                 <div>
                   <label style={{ 
                     display: "block",
@@ -630,7 +729,7 @@ function ListeRealisationAdmin() {
                     minHeight: "400px"
                   }}>
                     <img 
-                      src={selected.real_image} 
+                      src={selected.real_image.startsWith('http') ? selected.real_image : `http://localhost:5179${selected.real_image}`} 
                       alt="Réalisation"
                       onError={(e) => {
                         e.target.src = "https://via.placeholder.com/400x300?text=Image+introuvable";
@@ -670,6 +769,25 @@ function ListeRealisationAdmin() {
           </div>
         </>
       )}
+
+      {/* Modal de Confirmation */}
+      <ConfirmationModal
+        isOpen={showConfirmation}
+        title="Confirmation de Validation"
+        message="Voulez-vous vraiment valider ?"
+        onConfirm={() => {
+          if (confirmAction) {
+            confirmAction();
+          }
+          setShowConfirmation(false);
+          setConfirmAction(null);
+        }}
+        onCancel={() => {
+          setShowConfirmation(false);
+          setConfirmAction(null);
+        }}
+        isLoading={validatingIds.size > 0}
+      />
     </div>
   );
 }

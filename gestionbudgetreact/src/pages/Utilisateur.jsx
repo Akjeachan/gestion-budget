@@ -98,7 +98,7 @@ function Utilisateur() {
                             onClick={closeMobileSidebar}
                         >
                             <span className="material-icons">calendar_today</span>
-                            <span className="sidebar-menu-text">Plannification</span>
+                            <span className="sidebar-menu-text">Planification</span>
                         </Link>
                     </li>
                     <li>

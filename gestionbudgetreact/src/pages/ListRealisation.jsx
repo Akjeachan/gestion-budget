@@ -3,7 +3,6 @@ import { ListPlannificationRealisation, ModificationRealisation } from "../servi
 
 function ListeRealisation() {
   const [realisation, setRealisation] = useState([]);
-  const [prixunitaire, setPrixunitaire] = useState("");
   const [description, setDescription] = useState("");
   const [image, setImage] = useState(null);
   const [message, setMessage] = useState("");
@@ -26,7 +25,6 @@ function ListeRealisation() {
 
   const openEditModal = (realisation) => {
     setSelected({ ...realisation });
-    setPrixunitaire(realisation.real_prixunitaire?.toString() || "");
     setDescription(realisation.real_description || "");
     setShowEditModal(true);
   };
@@ -40,20 +38,18 @@ function ListeRealisation() {
     setShowEditModal(false);
     setShowDetailModal(false);
     setSelected(null);
-    setPrixunitaire("");
     setDescription("");
     setImage(null);
   };
 
   const handleRealisation = async () => {
     try {
-      if (!prixunitaire || !description) {
-        setMessage("⚠️ Veuillez remplir le prix unitaire et la description.");
+      if (!description) {
+        setMessage("⚠️ Veuillez remplir la description.");
         return;
       }
 
       const formData = new FormData();
-      formData.append("prixunitaire", parseFloat(prixunitaire));
       formData.append("description", description);
 
       if (image) {
@@ -74,15 +70,45 @@ function ListeRealisation() {
   };
 
   const getStatusBadge = (etatpName) => {
-    if (etatpName === "validé") return "badge-success";
-    if (etatpName === "non validé") return "badge-warning";
-    if (etatpName === "rejeté") return "badge-danger";
+    const normalized = normalizeStatus(etatpName);
+    if (normalized === "valide") return "badge-success";
+    if (normalized === "non valide" || normalized === "en attente" || normalized === "a valider" || normalized === "a valide" || normalized === "non realiser" || normalized === "non realise") return "badge-warning";
+    if (normalized === "rejete") return "badge-danger";
     return "badge-info";
+  };
+
+  const normalizeStatus = (status) => {
+    if (!status) return "";
+    return status
+      .toLowerCase()
+      .trim()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "");
+  };
+
+  const getEtatName = (item) => {
+    return item?.etat_namerealisation || item?.etat_name || item?.etatp_name || item?.etat?.etatp_name || "";
+  };
+
+  const getStatusText = (etatName) => {
+    if (!etatName) return "En attente";
+    const normalized = normalizeStatus(etatName);
+
+    if (normalized === "valide") return "Validé";
+    if (normalized === "non valide") return "Non validé";
+    if (normalized === "non realiser" || normalized === "non realise") return "En attente";
+    if (normalized === "rejete") return "Rejeté";
+    if (normalized === "en attente") return "En attente";
+    if (normalized === "a valider" || normalized === "a valide") return "À valider";
+
+    return etatName;
   };
 
   const filteredRealisation = realisation.filter(r => {
     if (filterStatus === "tous") return true;
-    return r.etatp_name === filterStatus;
+    const statusNormalized = normalizeStatus(getEtatName(r));
+    const filterNormalized = normalizeStatus(filterStatus);
+    return statusNormalized === filterNormalized;
   });
 
   const maxMontant = filteredRealisation.length > 0
@@ -237,7 +263,7 @@ function ListeRealisation() {
                         color: "#6b7280",
                         fontWeight: "500"
                       }}>
-                        {r.etatp_name || "..."}
+                        {getStatusText(getEtatName(r))}
                       </div>
                     </div>
                   );
@@ -316,8 +342,8 @@ function ListeRealisation() {
                   <td>{r.plan_nombredemande || 0}</td>
                   <td>{r.plan_montanttotal?.toLocaleString("fr-FR") || "0"} Ar</td>
                   <td className="text-center">
-                    <span className={`badge ${getStatusBadge(r.etatp_name)}`}>
-                      {r.etatp_name || "En attente"}
+                    <span className={`badge ${getStatusBadge(getEtatName(r))}`}>
+                      {getStatusText(getEtatName(r))}
                     </span>
                   </td>
                   <td className="text-center" onClick={(e) => e.stopPropagation()}>
@@ -375,17 +401,6 @@ function ListeRealisation() {
                 accept="image/*"
               />
               {image && <small style={{ color: "green" }}>Fichier sélectionné: {image.name}</small>}
-            </div>
-
-            <div className="form-group">
-              <label>Prix Unitaire <span style={{ color: "red" }}>*</span>:</label>
-              <input
-                type="number"
-                step="0.01"
-                value={prixunitaire}
-                onChange={(e) => setPrixunitaire(e.target.value)}
-                placeholder="Ex: 1500.50"
-              />
             </div>
 
             <div className="form-group">
@@ -524,8 +539,8 @@ function ListeRealisation() {
                   }}>
                     Statut
                   </label>
-                  <span className={`badge ${getStatusBadge(selected.etatp_name)}`}>
-                    {selected.etatp_name || "En attente"}
+                  <span className={`badge ${getStatusBadge(getEtatName(selected))}`}>
+                    {getStatusText(getEtatName(selected))}
                   </span>
                 </div>
               </div>
@@ -685,7 +700,7 @@ function ListeRealisation() {
                     minHeight: "400px"
                   }}>
                     <img
-                      src={selected.real_image}
+                      src={`http://localhost:5179${selected.real_image}`}
                       alt="Réalisation"
                       onError={(e) => {
                         e.target.src = "https://via.placeholder.com/400x300?text=Image+introuvable";
