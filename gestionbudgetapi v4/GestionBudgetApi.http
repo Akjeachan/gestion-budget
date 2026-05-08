@@ -1,6 +1,0 @@
-@GestionBudgetApi_HostAddress = http://localhost:5179
-
-GET {{GestionBudgetApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
